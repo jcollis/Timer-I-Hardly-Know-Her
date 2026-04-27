@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD032 MD033-->
 <!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
-# 🍅 **jcollis/Timer-I-Hardly-Know-Her**
+# 🍅 **Timer? I Hardly Know Her!**
 
 <div align="center">
   <!-- Change your logo -->
